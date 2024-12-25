@@ -6,6 +6,8 @@ import { VideoRoot } from './components/videoRoot'
 import { BottomBarRoot } from './components/bottom'
 import { FooterBarRoot } from './components/footerRoot'
 
+function counter()  n
+
 function App() {
     return (
         <>
